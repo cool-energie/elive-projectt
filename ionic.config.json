@@ -1,0 +1,8 @@
+{
+  "name": "e-vitrine",
+  "app_id": "a992e914",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
